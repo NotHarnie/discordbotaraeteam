@@ -1,4 +1,4 @@
-Bot discord permetamt de donner des roles de team pour une participation
+Bot discord permetant de donner des roles de team pour une participation
 Notez que vous pouvez changer les roles dans le code
 il ajoutera le role que si vous avez le role participant
 si vous enlevez le role participant, il vous enleve les autres roles 
